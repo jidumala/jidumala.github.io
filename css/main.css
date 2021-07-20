@@ -5,6 +5,7 @@
 }
 html,
 body {
+  min-height: 100%;
   max-width: 100%;
   overflow-x: hidden;
 }
@@ -201,4 +202,11 @@ h1 {
 .why-me-visual {
   margin-left: -12rem;
   margin-top: -39rem;
+}
+
+.work-carousel-item {
+  width: 100%;
+  background-color: #333;
+  padding: 4rem;
+  color: white;
 }
