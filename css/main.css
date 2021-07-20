@@ -41,6 +41,12 @@ h1 {
   color: white;
   border-color: white;
 }
+.button--white:hover,
+.button--white:focus {
+  border-color: white;
+  background-color: white;
+  color: black;
+}
 .button--up-arrow {
   transform: rotate(180deg);
 }
