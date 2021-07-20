@@ -190,7 +190,7 @@ h1 {
 }
 .why-me-heading {
   color: white;
-  margin-top: 5rem;
+  margin-top: 0rem;
   text-align: right;
   margin-right: 10rem;
 }
@@ -205,8 +205,11 @@ h1 {
 }
 
 .work-carousel-item {
-  width: 100%;
-  background-color: #333;
-  padding: 4rem;
+  width: 125%;
+  height: fit-content;
+  background-color: rgb(255, 255, 255);
+  padding: 5rem;
   color: white;
+  margin-top: 6rem;
+  
 }
