@@ -1,0 +1,17 @@
+<svg id="Component_11_1" data-name="Component 11 – 1" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Ellipse_1" data-name="Ellipse 1" fill="rgba(255,255,255,0)" stroke="#191919" stroke-width="3">
+    <circle cx="25" cy="25" r="25" stroke="none"/>
+    <circle cx="25" cy="25" r="23.5" fill="none"/>
+  </g>
+  <g id="Mask_Group_3" data-name="Mask Group 3" transform="translate(-675 -738)">
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(675 738)" fill="#191919" stroke="#191919" stroke-width="3">
+      <circle cx="25" cy="25" r="25" stroke="none"/>
+      <circle cx="25" cy="25" r="23.5" fill="none"/>
+    </g>
+  </g>
+  <g id="Arrow-w" transform="translate(-675 -738)">
+    <line id="Line_2" data-name="Line 2" y2="30" transform="translate(700.5 747.5)" fill="none" stroke="#f5f5f5" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_3" data-name="Line 3" x1="9" y1="12" transform="translate(691.5 765.5)" fill="none" stroke="#f5f5f5" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_4" data-name="Line 4" y1="12" x2="9" transform="translate(700.5 765.5)" fill="none" stroke="#f5f5f5" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>

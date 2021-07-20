@@ -1,0 +1,22 @@
+<svg id="Component_12_1" data-name="Component 12 – 1" xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Ellipse_1" data-name="Ellipse 1" stroke="#f5f5f5" stroke-width="3">
+    <circle cx="25" cy="25" r="25" stroke="none"/>
+    <circle cx="25" cy="25" r="23.5" fill="none"/>
+  </g>
+  <g id="Mask_Group_3" data-name="Mask Group 3">
+    <g id="Ellipse_2" data-name="Ellipse 2" fill="#f5f5f5" stroke="#f5f5f5" stroke-width="3">
+      <circle cx="25" cy="25" r="25" stroke="none"/>
+      <circle cx="25" cy="25" r="23.5" fill="none"/>
+    </g>
+  </g>
+  <g id="Arrow" transform="translate(16.5 10.5)" opacity="0">
+    <line id="Line_2" data-name="Line 2" y1="30" transform="translate(9)" fill="none" stroke="#f5f5f5" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_3" data-name="Line 3" x1="9" y2="12" fill="none" stroke="#f5f5f5" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_4" data-name="Line 4" x2="9" y2="12" transform="translate(9)" fill="none" stroke="#f5f5f5" stroke-linecap="round" stroke-width="3"/>
+  </g>
+  <g id="Arrow-w" transform="translate(16.5 10.5)">
+    <line id="Line_2-2" data-name="Line 2" y1="30" transform="translate(9)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_3-2" data-name="Line 3" x1="9" y2="12" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+    <line id="Line_4-2" data-name="Line 4" x2="9" y2="12" transform="translate(9)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="3"/>
+  </g>
+</svg>
