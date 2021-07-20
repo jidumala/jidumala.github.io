@@ -1,2 +1,2 @@
-# joshuadumala.com
+# jidumala.github.io
  Josh's Website
