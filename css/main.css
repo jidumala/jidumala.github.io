@@ -205,7 +205,7 @@ h1 {
 }
 
 .work-carousel-item {
-  width: 125%;
+  width: 100%;
   height: fit-content;
   background-color: rgb(255, 255, 255);
   padding: 5rem;
