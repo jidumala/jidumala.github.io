@@ -238,6 +238,34 @@ h1 {
   margin-top: -25rem;
 }
 .contact-visual {
+  position: relative;
   text-align: center;
   margin-top: 5rem;
+}
+.contact-text {
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: white;
+}
+.email-me {
+  font-size: 35;
+}
+.contact-text a {
+  color: white;
+  font-weight: bold;
+  display: block;
+  padding: 1rem 2rem;
+  border: 3px solid white;
+  border-radius: 2rem;
+  text-decoration: none;
+  background-color: transparent;
+  transition: 250ms ease-in-out;
+}
+.contact-text a:hover,
+.contact-text a:focus {
+  background-color: #ffffff;
+  border-color: transparent;
+  color: black;
 }
