@@ -203,13 +203,41 @@ h1 {
   margin-left: -12rem;
   margin-top: -39rem;
 }
+.heading {
+  margin-left: 12.75rem;
+}
 
 .work-carousel-item {
-  width: 100%;
-  height: fit-content;
+  width: 100%; 
+  height: 589px;
   background-color: rgb(255, 255, 255);
-  padding: 5rem;
+  padding: 0rem;
   color: white;
-  margin-top: 6rem;
+  margin-top: 3rem;
+  text-align: center;
   
+}
+.about-heading {
+  margin-left: 12.75rem;
+  margin-top: -1rem;
+}
+.about-text {
+  margin-left: 13.8rem;
+  margin-top: 7rem;
+}
+.about-text-text {
+  font-size: 25;
+  font-weight: bold;
+  line-height: 35px;
+  margin-top: 2rem;
+
+}
+.about-visual {
+  text-align: right;
+  margin-right: 11rem;
+  margin-top: -25rem;
+}
+.contact-visual {
+  text-align: center;
+  margin-top: 5rem;
 }
