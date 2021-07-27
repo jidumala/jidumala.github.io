@@ -208,14 +208,13 @@ h1 {
 }
 
 .work-carousel-item {
-  width: 100%; 
+  width: 100%;
   height: 589px;
   background-color: rgb(255, 255, 255);
   padding: 0rem;
   color: white;
   margin-top: 3rem;
   text-align: center;
-  
 }
 .about-heading {
   margin-left: 12.75rem;
@@ -230,7 +229,6 @@ h1 {
   font-weight: bold;
   line-height: 35px;
   margin-top: 2rem;
-
 }
 .about-visual {
   text-align: right;
@@ -246,7 +244,7 @@ h1 {
   position: absolute;
   top: 15%;
   left: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
   color: white;
 }
 .email-me {
@@ -268,4 +266,32 @@ h1 {
   background-color: #ffffff;
   border-color: transparent;
   color: black;
+}
+
+.header-nav-trigger {
+  display: none;
+  -webkit-appearance: none;
+  background: none;
+  border: none;
+  padding: 1rem;
+  color: white;
+}
+.header-nav-trigger:active,
+.header-nav-trigger:focus {
+  color: #ddd;
+}
+@media (max-width: 1100px) {
+  .header .wrapper {
+    flex-wrap: wrap;
+  }
+  .header-nav {
+    display: none;
+    flex-basis: 100%;
+  }
+  .header-nav-trigger {
+    display: block;
+  }
+  .menu-active .header-nav {
+    display: block;
+  }
 }
