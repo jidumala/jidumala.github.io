@@ -202,7 +202,7 @@ h1 {
   margin-left: -12rem;
   margin-top: -39rem;
 }
-.heading {
+.work-heading {
   margin-left: 12.75rem;
 }
 
@@ -389,4 +389,36 @@ h1 {
     text-align: center;
     margin: 0%;
   }
+  .about-heading {
+    text-align: center;
+    margin: 0%;
+  }
+  .about-text {
+    text-align: center;
+    margin-top: 3rem;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+  }
+  .about-visual {
+    text-align: center;
+    margin: 0%;
+  }
+  .work-heading {
+    text-align: center;
+    margin: 0%;
+  }
+  .work-carousel {
+    margin-top: 5rem;
+  }
+  .contact-heading {
+    margin-bottom: 5px;
+    margin-top: 3rem;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .contact-visual {
+    margin-top: 10rem;
+  }
+  
 }
